@@ -1,0 +1,693 @@
+model,0
+panda,4086
+500,3037
+ypsilon,2101
+golf,1893
+500x,1826
+c3,1727
+renegade,1658
+clio,1494
+a3,1446
+corsa,1393
+fiesta,1356
+polo,1347
+208,1260
+punto,1245
+fortwo,1195
+500l,1184
+2008,1179
+compass,1158
+yaris,1134
+qashqai,1100
+focus,1071
+3008,1057
+a4,1051
+tipo,956
+kuga,905
+q3,903
+t-roc,855
+x1,790
+tiguan,751
+romeo giulietta,746
+mokka,727
+romeo stelvio,727
+captur,715
+puma,701
+cooper,700
+sportage,591
+q5,591
+astra,582
+308,581
+a6,558
+a1,534
+ecosport,520
+x3,517
+juke,510
+c3 aircross,500
+tucson,492
+countryman,487
+grande punto,480
+romeo mito,441
+aygo,434
+q2,431
+t-cross,425
+rover range rover,416
+micra,387
+a5,368
+doblo,353
+megane,346
+forfour,343
+twingo,342
+meriva,333
+passat,331
+romeo giulia,324
+musa,323
+c-max,311
+macan,302
+i10,284
+ibiza,280
+c1,271
+rover discovery sport,269
+c4,268
+up,266
+fabia,265
+crossland,265
+x5,264
+i20,262
+panda cross,261
+scenic,259
+207,259
+bravo,252
+ka,251
+qubo,248
+c-hr,245
+x2,239
+leon,238
+zs,237
+one,237
+cayenne,236
+5008,231
+x4,230
+arona,229
+picanto,224
+delta,220
+kadjar,219
+swift,218
+taigo,216
+kona,214
+xc40,214
+tt,203
+e-pace,198
+911,194
+c5 aircross,185
+romeo tonale,183
+octavia,177
+vitara,177
+grandland x,176
+c3 picasso,173
+kamiq,166
+rover range rover sport,166
+v40,164
+wrangler,163
+jimny,163
+xc60,160
+stonic,159
+clubman,154
+f-pace,154
+206,153
+touran,153
+rover defender,150
+romeo 159,148
+rio,144
+rav4,144
+sedici,143
+107,142
+zafira,140
+crossland x,140
+adam,139
+rover range rover velar,138
+cherokee,136
+b-max,134
+x-trail,132
+grand vitara,131
+q8,130
+grand cherokee,128
+kangoo,127
+panda 4x4,125
+ranger,125
+levante,123
+insignia,122
+c4 picasso,121
+x6,120
+grandland,119
+108,119
+rover freelander,118
+z4,116
+freemont,116
+c4 cactus,114
+idea,114
+508,112
+s-max,111
+cooper s,110
+ghibli,110
+romeo 147,103
+cx-5,103
+modus,102
+berlingo,101
+cx-3,101
+corolla,100
+ignis,99
+arkana,99
+multipla,97
+ix20,94
+terios,94
+agila,93
+ateca,93
+karl,92
+v60,91
+ix35,89
+i30,87
+karoq,84
+l200,84
+mondeo,84
+spark,81
+aygo x,80
+caddy,80
+partner,79
+cx-30,79
+rover discovery,78
+jazz,78
+pajero,76
+panamera,76
+croma,75
+q3 sportback,74
+xf,73
+civic,71
+new beetle,69
+cr-v,69
+s3,68
+xceed,67
+v50,67
+3,64
+touareg,63
+c5,63
+auris,62
+c2,62
+model 3,62
+bayon,62
+mx-5,61
+aveo,61
+kodiaq,61
+venga,61
+307,60
+xe,60
+sx4,60
+santa fe,60
+q7,59
+captiva,59
+zoe,57
+xc90,56
+asx,56
+stilo,55
+z3,54
+boxster,54
+grecale,53
+transit,53
+romeo 156,53
+xv,53
+navara,52
+antara,52
+space star,51
+niro,50
+forester,50
+land cruiser,49
+tarraco,49
+fusion,49
+id.3,48
+sorento,48
+nemo,48
+a7,47
+q5 sportback,47
+ceed,46
+hr-v,45
+note,45
+zafira tourer,45
+rs3,45
+impreza,45
+espace,44
+romeo gt,44
+colt,43
+a8,42
+cayman,41
+multivan,41
+vivaro,39
+transit connect,39
+verso,39
+rover evoque,38
+leaf,38
+edge,38
+rifter,37
+galaxy,37
+2,37
+romeo spider,37
+scala,37
+ux,37
+romeo gtv,37
+lodgy,36
+iq,35
+mustang,35
+x-type,34
+combo,34
+ducato,34
+mii,33
+grand c4 picasso,33
+tourneo connect,33
+trafic,33
+romeo brera,32
+outlander,32
+koleos,32
+dokker,31
+cruze,30
+superb,30
+scirocco,30
+i3,30
+fiesta active,30
+124 spider,30
+thema,29
+f-type,29
+yeti,29
+grand scenic,28
+nx,28
+talisman,28
+jogger,27
+splash,26
+carens,26
+terrano,26
+s60,26
+407,26
+9-3,25
+model y,25
+grand c4 spacetourer,25
+m3,24
+rs6,24
+astra gtc,24
+austral,24
+quattroporte,24
+6,24
+m4,24
+soul,23
+c3 pluriel,23
+hilux,22
+focus active,22
+sharan,22
+spring,22
+altea,22
+c4 spacetourer,22
+patrol,22
+id.4,21
+urus,21
+718 cayman,21
+a2,21
+ds3,21
+a1 citycarver,20
+i40,20
+outback,19
+alto,19
+coupe,19
+romeo 166,19
+laguna,19
+orlando,19
+citigo,19
+f430,19
+pt cruiser,19
+roomster,18
+x4 m,18
+rs q3,18
+ioniq,18
+taycan,18
+s5,17
+celerio,17
+ix1,17
+r8,17
+model s,17
+alhambra,17
+v90,17
+traveller,17
+strada,17
+1007,16
+amarok,16
+fox,16
+getz,16
+voyager,16
+m2,16
+xj,16
+xsara picasso,16
+phedra,16
+altea xl,16
+nitro,16
+h3,15
+california,15
+c30,15
+q4,15
+eclipse cross,15
+mustang mach-e,15
+patriot,15
+5,15
+v70,15
+tigra,15
+s4,15
+saxo,15
+lupo,15
+continental gt,14
+lybra,14
+jumper,14
+proceed,14
+cx-60,14
+sirion,14
+q30,14
+sq5,14
+d-max,13
+combo life,13
+transporter,13
+cx-7,13
+twizy,13
+corolla verso,13
+avensis,13
+s1,13
+c4 aircross,13
+ram 1500,12
+atos prime,12
+a1 allstreet,12
+galloper,12
+viano,12
+trax,12
+cooper cabrio,12
+s6,12
+murano,12
+matiz,12
+v60 cross country,12
+baleno,12
+spacetourer,11
+s-type,11
+360,11
+x5 m,11
+frontera,11
+boxer,11
+pathfinder,11
+romeo 4c,10
+s90,10
+i20 n,10
+is,10
+caliber,10
+600e,10
+tts,10
+xc70,10
+c-crosser,10
+sq8,10
+xsara,10
+model x,10
+rc,10
+408,10
+camaro,9
+x7,9
+cooper s cabrio,9
+gallardo,9
+4007,9
+roadster,9
+marea,9
+sq2,9
+corolla cross,9
+458,9
+pajero pinin,9
+celica,9
+expert,9
+ioniq 5,9
+i-pace,8
+townstar,8
+thesis,8
+i8,8
+huracan,8
+legacy,8
+#1,8
+ariya,8
+348,8
+jumpy,8
+c8,8
+ct,8
+eqa,7
+296,7
+justy,7
+s80,7
+eos,7
+arteon,7
+e-tron,7
+wrx,7
+corvette,7
+x6 m,7
+718 boxster,7
+tt rs,7
+ulysse,7
+continental gtc,7
+tf,7
+impreza wrx,7
+carnival,7
+rs q8,7
+yaris verso,7
+h2,6
+ex30,6
+explorer,6
+vectra,6
+i4,6
+lancer,6
+323,6
+mx-30,6
+c4 x,6
+passat cc,6
+300,6
+arosa,6
+romeo 146,6
+rapid,6
+elise,6
+cascada,6
+accord,6
+qx30,6
+807,6
+zs ev,5
+zafira life,5
+brava,5
+terracan,5
+jetta,5
+vito,5
+wind,5
+wall hover,5
+gladiator,5
+solterra,5
+rs4,5
+materia,5
+portofino,5
+prius,5
+c6,5
+optima,5
+prelude,5
+pajero sport,5
+x3 m,5
+488,4
+octavia scout,4
+a4 allroad quattro,4
+roma,4
+e,4
+ds5,4
+q8 e-tron,4
+xm,4
+exeo,4
+journey,4
+trevis,4
+612,4
+595,4
+bora,4
+ev3,4
+ev6,4
+stinger,4
+supra,4
+fr-v,4
+zr,4
+cc,4
+grand voyager,4
+fx,4
+highlander,4
+rx-8,4
+s40,4
+lancer evo,4
+lbx,4
+matrix,4
+martin vantage,4
+rx,3
+enyaq iv,3
+e-nv200,3
+c40,3
+e-tron gt,3
+romeo 156 gta,3
+amg gt,3
+daily,3
+3200 gt,3
+zr-v,3
+c70,3
+megane e-tech,3
+martin dbx,3
+s2000,3
+martin v8 vantage,3
+levorg,3
+kalos,3
+malibu,3
+staria,3
+sq5 sportback,3
+9-5,3
+a3 allstreet,3
+ix,3
+cordoba,3
+f12,3
+toledo,3
+i30 n,3
+f8 tributo,3
+c-elysee,3
+challenger,3
+ff,3
+wagon r,3
+brz,3
+c5 x,2
+phaeton,2
+palio,2
+rs5,2
+rs q3 sportback,2
+xt4,2
+456,2
+4runner,2
+5 e-tech,2
+wagon r+,2
+grand vitara xl7,2
+bronco,2
+california t,2
+f8 spider,2
+veloster,2
+i-miev,2
+h-1,2
+id.5,2
+ev9,2
+id.buzz,2
+ix3,2
+exige,2
+evora,2
+impreza wrx sti,2
+75,2
+suburban,2
+bentayga,2
+m6,2
+m5,2
+sf90 stradale,2
+sprinter,2
+sq7,2
+seres 3,2
+sebring,2
+seal,2
+crosstrek,2
+s7,2
+cr-z,2
+corsa opc,2
+sc,2
+mc20,2
+406,2
+accent,2
+rs7,2
+rafale,2
+dolphin,2
+almera,2
+q50,2
+cuore,2
+ix2,2
+avenger,2
+mpv,2
+insight,2
+z,1
+370z,1
+romeo 147 gta,1
+q4 sportback,1
+alaskan,1
+qashqai+2,1
+q70,1
+q60,1
+xk/xkr,1
+25,1
+allroad,1
+previa,1
+de ville,1
+cx-80,1
+primera,1
+ds4,1
+almera tino,1
+e - pace,1
+e-class,1
+e-doblo,1
+martin db9,1
+eldorado,1
+eclipse,1
+elantra,1
+emira,1
+812,1
+epica,1
+765lt,1
+pacifica,1
+nexia,1
+ats-v,1
+astra opc,1
+altea freetrack,1
+durango,1
+silverado,1
+signum,1
+cts,1
+crossfire,1
+crafter,1
+cougar,1
+s8,1
+martin dbs,1
+master,1
+maverick,1
+corsair,1
+sf90 spider,1
+magentis,1
+sierra 1500,1
+avalanche,1
+sky,1
+land cruiser prado,1
+legend,1
+eqe,1
+escalade,1
+streetwise,1
+srx,1
+bigster,1
+aventador,1
+kona n,1
+avantime,1
+continental,1
+commander,1
+trailblazer,1
+f-150,1
+eqc,1
+ioniq 6,1
+512,1
+town car,1
+626,1
+720s spider,1
+599 gtb fiorano,1
+600,1
+gt 86,1
+gt-r,1
+trooper,1
+tundra,1
+fj cruiser,1
+tunland g7,1
+viper,1
+f355,1
+c - max,1
+gran turismo,1
+genesis coupe,1
+wagoneer,1
